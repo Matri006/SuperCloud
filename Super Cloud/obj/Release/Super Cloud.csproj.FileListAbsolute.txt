@@ -1,0 +1,18 @@
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\Super Cloud.exe.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\Super Cloud.exe
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\Super Cloud.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\General.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\Newtonsoft.Json.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\System.Data.SQLite.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\General.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\General.dll.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\Newtonsoft.Json.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Release\System.Data.SQLite.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super Cloud.csproj.AssemblyReference.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super_Cloud.Form1.resources
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super_Cloud.Properties.Resources.resources
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super Cloud.csproj.GenerateResource.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super Cloud.csproj.CoreCompileInputs.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super Cloud.csproj.CopyComplete
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super Cloud.exe
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Release\Super Cloud.pdb

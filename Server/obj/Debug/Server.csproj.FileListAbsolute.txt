@@ -1,0 +1,381 @@
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\Server.exe.config
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\Server.exe
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\Server.pdb
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\netstandard.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.AppContext.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Console.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Data.Common.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Compression.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Pipes.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Http.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Ping.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Requests.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Security.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Sockets.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.ObjectModel.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.Reader.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.Writer.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Claims.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Principal.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.SecureString.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.Encoding.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Thread.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Timer.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.ValueTuple.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XPath.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\General.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\SQLite-net.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Buffers.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Memory.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\General.pdb
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\General.dll.config
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\SQLite-net.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Buffers.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Memory.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\obj\Debug\Server.exe.config
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\obj\Debug\Server.exe
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Server\obj\Debug\Server.pdb
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\Server.exe.config
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\Server.exe
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\Server.pdb
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\netstandard.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.AppContext.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.Concurrent.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.NonGeneric.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.Specialized.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Console.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Data.Common.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Contracts.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Debug.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Process.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Tools.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Tracing.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Drawing.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Dynamic.Runtime.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.Calendars.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.Extensions.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Compression.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.IsolatedStorage.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Pipes.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Expressions.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Parallel.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Queryable.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Http.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.NameResolution.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.NetworkInformation.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Ping.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Requests.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Security.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Sockets.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebSockets.Client.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebSockets.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.ObjectModel.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.Extensions.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.Reader.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.ResourceManager.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.Writer.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Extensions.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Handles.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.InteropServices.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Numerics.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Claims.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Principal.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.SecureString.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.Encoding.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.RegularExpressions.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Overlapped.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Tasks.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Thread.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.ThreadPool.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Timer.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.ValueTuple.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.ReaderWriter.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XDocument.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XmlDocument.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XmlSerializer.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XPath.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\General.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\Newtonsoft.Json.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\SQLite-net.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.core.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Buffers.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Memory.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Numerics.Vectors.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\General.pdb
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\General.dll.config
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\Newtonsoft.Json.xml
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\SQLite-net.xml
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Buffers.xml
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Memory.xml
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Numerics.Vectors.xml
+E:\new\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\new\Super Cloud\Super Cloud\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\new\Super Cloud\Super Cloud\Server\obj\Debug\Server.exe.config
+E:\new\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\new\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.CopyComplete
+E:\new\Super Cloud\Super Cloud\Server\obj\Debug\Server.exe
+E:\new\Super Cloud\Super Cloud\Server\obj\Debug\Server.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\Server.exe.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\Server.exe
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\Server.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\netstandard.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.AppContext.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.Concurrent.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.NonGeneric.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Collections.Specialized.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Console.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Data.Common.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Debug.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Process.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Tools.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Drawing.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Dynamic.Runtime.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.Calendars.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Globalization.Extensions.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Compression.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.Pipes.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Expressions.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Parallel.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Linq.Queryable.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Http.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.NameResolution.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.NetworkInformation.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Ping.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Requests.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Security.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.Sockets.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Net.WebSockets.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.ObjectModel.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.Extensions.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Reflection.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.Reader.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.ResourceManager.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Resources.Writer.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Extensions.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Handles.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.InteropServices.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Numerics.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Claims.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.Principal.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Security.SecureString.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.Encoding.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Text.RegularExpressions.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Overlapped.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Tasks.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Thread.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.ThreadPool.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Threading.Timer.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.ValueTuple.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XDocument.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XmlDocument.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XPath.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\General.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\Newtonsoft.Json.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\SQLite-net.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.core.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Buffers.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Memory.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Numerics.Vectors.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\General.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\General.dll.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\Newtonsoft.Json.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\SQLite-net.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Buffers.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Memory.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Numerics.Vectors.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\obj\Debug\Server.exe.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\obj\Debug\Server.exe
+E:\Дипломный проект\Super Cloud\Super Cloud\Server\obj\Debug\Server.pdb

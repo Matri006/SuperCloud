@@ -1,0 +1,54 @@
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.exe.config
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.exe
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.pdb
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\System.Data.SQLite.dll
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.pdb
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.dll.config
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\bin\Debug\System.Data.SQLite.xml
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.AssemblyReference.cache
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super_Cloud.Form1.resources
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super_Cloud.Properties.Resources.resources
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.GenerateResource.cache
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.CoreCompileInputs.cache
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.CopyComplete
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.exe
+C:\Users\Маша\Desktop\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.pdb
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.exe.config
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.exe
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.pdb
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.dll
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Newtonsoft.Json.dll
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\System.Data.SQLite.dll
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.pdb
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.dll.config
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Newtonsoft.Json.xml
+E:\new\Super Cloud\Super Cloud\Super Cloud\bin\Debug\System.Data.SQLite.xml
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super_Cloud.Form1.resources
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super_Cloud.Properties.Resources.resources
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.GenerateResource.cache
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.CoreCompileInputs.cache
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.CopyComplete
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.exe
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.pdb
+E:\new\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.AssemblyReference.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.exe.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.exe
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Super Cloud.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Newtonsoft.Json.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\System.Data.SQLite.dll
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.pdb
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\General.dll.config
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\Newtonsoft.Json.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\bin\Debug\System.Data.SQLite.xml
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.AssemblyReference.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super_Cloud.Form1.resources
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super_Cloud.Properties.Resources.resources
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.GenerateResource.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.CoreCompileInputs.cache
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.csproj.CopyComplete
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.exe
+E:\Дипломный проект\Super Cloud\Super Cloud\Super Cloud\obj\Debug\Super Cloud.pdb
